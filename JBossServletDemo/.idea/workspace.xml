@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="JBossServletDemo:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="764a73ab-9099-424e-bc41-bbe65cafd541" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gRlKU55TZOqS4RNBRhhBrAOxhQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.20689656" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JBoss Server.JBoss 7.1.0.CR1b">
+    <configuration name="DBConnection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DBConnection" />
+      <module name="JBossServletDemo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JBoss 7.1.0.CR1b" type="JBossConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="JBoss 7.1.0.CR1b" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="1.7" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8088/JBossServletDemo_war_exploded/" />
+      <option name="COMMON_VM_ARGUMENTS" value="-javaagent:$USER_HOME$/docker/pradar-agent/agent/boot/transmittable-thread-local-2.10.2.jar -javaagent:$USER_HOME$/docker/pradar-agent/agent/pradar-core-ext-bootstrap-1.0.0.jar -Dpradar.project.name=jboss-jndi-demo" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="JBossServletDemo:war exploded">
+          <settings />
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="SERVER" />
+        <option name="BINDING_SET_NAME" value="" />
+        <option name="DOMAIN" value="false" />
+        <option name="SERVER_GROUP" value="main-server-group" />
+        <option name="USERNAME" value="" />
+        <option name="CREDENTIAL_ALIAS" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="JBoss" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="61594" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="JBossServletDemo:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.DBConnection" />
+      <item itemvalue="JBoss Server.JBoss 7.1.0.CR1b" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DBConnection" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.18334551" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="JBoss Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="JBoss Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="764a73ab-9099-424e-bc41-bbe65cafd541" name="Default Changelist" comment="" />
+      <created>1598085221068</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598085221068</updated>
+      <workItem from="1598085223000" duration="5724000" />
+      <workItem from="1598091197171" duration="197000" />
+      <workItem from="1598091399192" duration="25000" />
+      <workItem from="1598091697055" duration="816000" />
+      <workItem from="1598092551181" duration="5347000" />
+      <workItem from="1598099699977" duration="258000" />
+      <workItem from="1598100997601" duration="7397000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="115" key="#Console" timestamp="1598095936730">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="115" key="#Console/0.0.1440.900@0.0.1440.900" timestamp="1598095936730" />
+    <state x="320" y="115" key="#Project_Structure" timestamp="1598152942088">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="115" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1598152942088" />
+    <state x="184" y="66" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598235163778">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="66" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1598235163778" />
+    <state x="184" y="81" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.793@0.23.1440.793" timestamp="1598086658936" />
+    <state x="334" y="115" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1598086561666">
+      <screen x="0" y="23" width="1440" height="793" />
+    </state>
+    <state x="334" y="115" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.23.1440.793@0.23.1440.793" timestamp="1598086561666" />
+    <state x="458" y="192" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1598091824401">
+      <screen x="0" y="23" width="1440" height="793" />
+    </state>
+    <state x="458" y="192" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.23.1440.793@0.23.1440.793" timestamp="1598091824401" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1598241244315">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1598241244315" />
+    <state width="1117" height="355" key="GridCell.Tab.0.bottom/0.23.1440.793@0.23.1440.793" timestamp="1598092517325" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1598241244314">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1598241244314" />
+    <state width="1117" height="355" key="GridCell.Tab.0.center/0.23.1440.793@0.23.1440.793" timestamp="1598092517323" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1598241244314">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1598241244314" />
+    <state width="1117" height="355" key="GridCell.Tab.0.left/0.23.1440.793@0.23.1440.793" timestamp="1598092517323" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1598241244315">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1598241244315" />
+    <state width="1117" height="355" key="GridCell.Tab.0.right/0.23.1440.793@0.23.1440.793" timestamp="1598092517324" />
+    <state width="1117" height="373" key="GridCell.Tab.1.bottom" timestamp="1598101754795">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1117" height="373" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1598101754795" />
+    <state width="1117" height="373" key="GridCell.Tab.1.center" timestamp="1598101754794">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1117" height="373" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1598101754794" />
+    <state width="1117" height="373" key="GridCell.Tab.1.left" timestamp="1598101754793">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1117" height="373" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1598101754793" />
+    <state width="1117" height="373" key="GridCell.Tab.1.right" timestamp="1598101754794">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1117" height="373" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1598101754794" />
+    <state x="208" y="23" key="SettingsEditor" timestamp="1598091828486">
+      <screen x="0" y="23" width="1440" height="793" />
+    </state>
+    <state x="208" y="23" key="SettingsEditor/0.23.1440.793@0.23.1440.793" timestamp="1598091828486" />
+    <state x="97" y="123" key="new project wizard" timestamp="1598085292868">
+      <screen x="0" y="23" width="1440" height="793" />
+    </state>
+    <state x="97" y="123" key="new project wizard/0.23.1440.793@0.23.1440.793" timestamp="1598085292868" />
+  </component>
+</project>
